@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: WordPress 3.1-alpha\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2010-09-18 20:04+0000\n"
-"PO-Revision-Date: 2010-09-19 11:40+0200\n"
+"PO-Revision-Date: 2010-09-19 11:54+0200\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Alt Hebrew Wordpress group (Hebrew)\n"
 "Language: he\n"
@@ -232,7 +232,7 @@ msgstr ""
 
 #: wp-admin/admin-header.php:147
 msgid "Log Out"
-msgstr ""
+msgstr "יציאה"
 
 #: wp-admin/admin.php:149
 msgid "Invalid plugin page"
