@@ -9,20 +9,22 @@ msgstr ""
 "Project-Id-Version: WordPress 3.1-alpha\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2010-09-18 20:04+0000\n"
-"PO-Revision-Date: 2010-09-19 11:54+0200\n"
+"PO-Revision-Date: 2010-09-20 12:20+0300\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
-"Language-Team: Alt Hebrew Wordpress group (Hebrew)\n"
+"Language-Team: Gezer (Hebrew)\n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: he\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n>2||n==0) ? 1 : 2;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Virtaal 0.6.1\n"
 
 #: wp-admin/admin-ajax.php:36
 #, php-format
 msgid "<strong>ALERT: You are logged out!</strong> Could not save draft. <a href=\"%s\" target=\"_blank\">Please log in again.</a>"
-msgstr "<strong>התראה: יצאת מהמערכת!</strong> לא ניתן לשמור את הטיוטה. <a href=\"%s\" target=\"_blank\">נא להיכנס בחזרה.</a>"
+msgstr ""
+"<strong>התראה: יצאת מהמערכת!</strong> לא ניתן לשמור את הטיוטה. <a href=\"%s\" "
+"target=\"_blank\">נא להיכנס בחזרה.</a>"
 
 #: wp-admin/admin-ajax.php:214 wp-admin/edit-link-categories.php:108
 #: wp-admin/includes/media.php:1924 wp-admin/includes/nav-menu.php:613
@@ -121,17 +123,17 @@ msgstr "אין לך הרשאה לערוך רשומה זו."
 #: wp-admin/admin-ajax.php:1166
 #, php-format
 msgid "Saving is disabled: %s is currently editing this page."
-msgstr ""
+msgstr "השמירה מנוטרלת: המשתמש %s עורך כעת עמוד זה."
 
 #: wp-admin/admin-ajax.php:1166
 #, php-format
 msgid "Saving is disabled: %s is currently editing this post."
-msgstr ""
+msgstr "השמירה מנוטרלת: המשתמש %s עורך כעת רשומה זו."
 
 #: wp-admin/admin-ajax.php:1224 wp-admin/admin-ajax.php:1231
 #: wp-admin/edit-tags.php:205
 msgid "Item not updated."
-msgstr ""
+msgstr "הפריט לא עודכן."
 
 #: wp-admin/admin-ajax.php:1268 wp-admin/includes/dashboard.php:435
 #: wp-admin/includes/default-list-tables.php:706
@@ -140,17 +142,17 @@ msgstr ""
 #: wp-admin/includes/media.php:2163
 #: wp-includes/js/tinymce/langs/wp-langs.php:295 wp-includes/post.php:4344
 msgid "Title"
-msgstr ""
+msgstr "כותרת"
 
 #: wp-admin/admin-ajax.php:1268 wp-admin/includes/default-list-tables.php:253
 #: wp-admin/includes/default-list-tables.php:719
 msgid "Date"
-msgstr ""
+msgstr "תאריך"
 
 #: wp-admin/admin-ajax.php:1268 wp-admin/edit-form-comment.php:35
 #: wp-admin/includes/default-list-tables.php:899
 msgid "Status"
-msgstr ""
+msgstr "מצב"
 
 #: wp-admin/admin-ajax.php:1274 wp-admin/includes/default-list-tables.php:556
 #: wp-admin/includes/default-list-tables.php:905
@@ -158,26 +160,26 @@ msgstr ""
 #: wp-includes/post.php:515 wp-includes/post.php:535
 #: wp-includes/script-loader.php:307
 msgid "Published"
-msgstr ""
+msgstr "תאריך הפרסום"
 
 #: wp-admin/admin-ajax.php:1277 wp-admin/includes/default-list-tables.php:561
 #: wp-admin/includes/default-list-tables.php:906
 #: wp-admin/includes/meta-boxes.php:67 wp-admin/includes/meta-boxes.php:93
 msgid "Scheduled"
-msgstr ""
+msgstr "בתזמון"
 
 #: wp-admin/admin-ajax.php:1280 wp-admin/includes/default-list-tables.php:911
 #: wp-admin/includes/meta-boxes.php:70 wp-admin/includes/meta-boxes.php:95
 #: wp-includes/post.php:513
 msgid "Pending Review"
-msgstr ""
+msgstr "בהמתנה לסקירה"
 
 #: wp-admin/admin-ajax.php:1283 wp-admin/includes/default-list-tables.php:912
 #: wp-admin/includes/meta-boxes.php:74 wp-admin/includes/meta-boxes.php:97
 #: wp-admin/includes/meta-boxes.php:99 wp-admin/includes/template.php:1595
 #: wp-includes/post.php:512 wp-includes/post.php:533
 msgid "Draft"
-msgstr ""
+msgstr "טיוטה"
 
 #. translators: date format in table columns, see http://php.net/date
 #. translators: comment date format. See http://php.net/date
@@ -187,44 +189,44 @@ msgstr ""
 #: wp-admin/includes/default-list-tables.php:1394
 #: wp-admin/includes/default-list-tables.php:2325
 msgid "Y/m/d"
-msgstr ""
+msgstr "Y/m/d"
 
 #: wp-admin/admin-footer.php:23
 msgid "Thank you for creating with <a href=\"http://wordpress.org/\">WordPress</a>."
-msgstr ""
+msgstr "תודה לך על שיצרת באמצעות <a href=\"http://wordpress.org/\">WordPress</a>."
 
 #: wp-admin/admin-footer.php:23
 msgid "<a href=\"http://codex.wordpress.org/\">Documentation</a>"
-msgstr ""
+msgstr "<a href=\"http://codex.wordpress.org/\">תיעוד</a>"
 
 #: wp-admin/admin-footer.php:23
 msgid "<a href=\"http://wordpress.org/support/forum/4\">Feedback</a>"
-msgstr ""
+msgstr "<a href=\"http://wordpress.org/support/forum/4\">משוב</a>"
 
 #: wp-admin/admin-header.php:126
 msgid "Visit Site"
-msgstr ""
+msgstr "ביקור באתר"
 
 #: wp-admin/admin-header.php:130
 msgid "Your site is asking search engines not to index its content"
-msgstr ""
+msgstr "האתר שלך מבקש ממנועי חיפוש שלא לאחסן את התוכן שלו"
 
 #: wp-admin/admin-header.php:130
 msgid "Search Engines Blocked"
-msgstr ""
+msgstr "מנועי חיפוש חסומים"
 
 #: wp-admin/admin-header.php:140
 #, php-format
 msgid "Howdy, <a href=\"%1$s\" title=\"Edit your profile\">%2$s</a>"
-msgstr ""
+msgstr "אהלן, <a href=\"%1$s\" title=\"עריכת הפרופיל שלך\">%2$s</a>"
 
 #: wp-admin/admin-header.php:143
 msgid "Network Admin"
-msgstr ""
+msgstr "מנהל הרשת"
 
 #: wp-admin/admin-header.php:145 wp-includes/general-template.php:340
 msgid "Site Admin"
-msgstr ""
+msgstr "מנהל האתר"
 
 #: wp-admin/admin-header.php:147
 msgid "Log Out"
@@ -232,29 +234,29 @@ msgstr "יציאה"
 
 #: wp-admin/admin.php:149
 msgid "Invalid plugin page"
-msgstr ""
+msgstr "עמוד התוספים שגוי"
 
 #: wp-admin/admin.php:153
 #, php-format
 msgid "Cannot load %s."
-msgstr ""
+msgstr "לא ניתן לטעון את %s."
 
 #: wp-admin/admin.php:174
 msgid "You are not allowed to import."
-msgstr ""
+msgstr "אין לך הרשאה לייבא."
 
 #: wp-admin/admin.php:188 wp-admin/import.php:17 wp-admin/menu.php:194
 msgid "Import"
-msgstr ""
+msgstr "יבוא"
 
 #: wp-admin/async-upload.php:29 wp-admin/includes/default-list-tables.php:993
 #: wp-admin/media-upload.php:16 wp-app.php:599 wp-app.php:787
 msgid "You do not have permission to upload files."
-msgstr ""
+msgstr "אין לך הרשאה להעלות קבצים."
 
 #: wp-admin/async-upload.php:48 wp-includes/script-loader.php:215
 msgid "Dismiss"
-msgstr ""
+msgstr "התעלמות"
 
 #: wp-admin/async-upload.php:49 wp-includes/script-loader.php:219
 #, php-format
@@ -264,11 +266,13 @@ msgstr ""
 #: wp-admin/comment.php:46 wp-admin/edit-form-comment.php:16
 #: wp-admin/edit-form-comment.php:27
 msgid "Edit Comment"
-msgstr ""
+msgstr "עריכת הערה"
 
 #: wp-admin/comment.php:48
 msgid "You can edit the information left in a comment if needed. This is often useful when you notice that a commenter has made a typographical error."
 msgstr ""
+"ניתן לערוך את המידע שנותר בהערה אם יש לך צורך בכך. אפשרות זו מועילה בעיקר אם "
+"הבחנת שהמעיר שגה שגיאה טיפוגרפית."
 
 #: wp-admin/comment.php:49
 msgid "You can also moderate the comment from this screen using the Status box, where you can also change the timestamp of the comment."
@@ -292,32 +296,35 @@ msgstr ""
 #: wp-admin/user-edit.php:43 wp-admin/user-new.php:124 wp-admin/users.php:26
 #: wp-admin/widgets.php:44
 msgid "For more information:"
-msgstr ""
+msgstr "למידע נוסף:"
 
 #: wp-admin/comment.php:51 wp-admin/edit-comments.php:113
 msgid "<a href=\"http://codex.wordpress.org/Administration_Panels#Comments\" target=\"_blank\">Comments Documentation</a>"
 msgstr ""
+"<a href=\"http://codex.wordpress.org/Administration_Panels#Comments\" "
+"target=\"_blank\">תיעוד על הערות</a>"
 
 #: wp-admin/comment.php:52
 msgid "<a href=\"http://wordpress.org/support/\" target=\"_blank\" >Support Forums</a>"
 msgstr ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\" >פורומי התמיכה</a>"
 
 #: wp-admin/comment.php:61 wp-admin/comment.php:213
 #: wp-admin/edit-comments.php:134
 msgid "Oops, no comment with this ID."
-msgstr ""
+msgstr "אופס, אין הערה בעלת מספר זיהוי זה."
 
 #: wp-admin/comment.php:61 wp-admin/comment.php:213
 msgid "Go back"
-msgstr ""
+msgstr "חזרה אחורה"
 
 #: wp-admin/comment.php:64
 msgid "You are not allowed to edit this comment."
-msgstr ""
+msgstr "אין לך הרשאות לערוך הערה זו."
 
 #: wp-admin/comment.php:67
 msgid "This comment is in the Trash. Please move it out of the Trash if you want to edit it."
-msgstr ""
+msgstr "הערה זו נמצאת באשפה. נא להעביר אותה אל מחוץ לאשפה אם יש צורך בעריכתה."
 
 #: wp-admin/comment.php:110
 msgid "Moderate Comment"
@@ -325,51 +332,51 @@ msgstr ""
 
 #: wp-admin/comment.php:115
 msgid "You are about to mark the following comment as spam:"
-msgstr ""
+msgstr "ההערה הבאה מיועדת לסימון כזבל:"
 
 #: wp-admin/comment.php:116
 msgid "Spam Comment"
-msgstr ""
+msgstr "סימון הערה כזבל"
 
 #: wp-admin/comment.php:119
 msgid "You are about to move the following comment to the Trash:"
-msgstr ""
+msgstr "ההערה הבאה מיועדת להשלכה לאשפה:"
 
 #: wp-admin/comment.php:120
 msgid "Trash Comment"
-msgstr ""
+msgstr "שליחת ההערה לאשפה"
 
 #: wp-admin/comment.php:123
 msgid "You are about to delete the following comment:"
-msgstr ""
+msgstr "ההערה הבאה מיועדת למחיקה:"
 
 #: wp-admin/comment.php:124
 msgid "Permanently Delete Comment"
-msgstr ""
+msgstr "מחיקת הודעה לצמיתות"
 
 #: wp-admin/comment.php:127
 msgid "You are about to approve the following comment:"
-msgstr ""
+msgstr "ההערה הבאה מיועדת לאישור:"
 
 #: wp-admin/comment.php:128
 msgid "Approve Comment"
-msgstr ""
+msgstr "אישור הערה"
 
 #: wp-admin/comment.php:136
 msgid "This comment is currently approved."
-msgstr ""
+msgstr "הערה זו עברה אישור נכון לעכשיו."
 
 #: wp-admin/comment.php:139
 msgid "This comment is currently marked as spam."
-msgstr ""
+msgstr "הערה זו מסומנת כזבל נכון לעכשיו."
 
 #: wp-admin/comment.php:142
 msgid "This comment is currently in the Trash."
-msgstr ""
+msgstr "הערה זו נמצאת באשפה נכון לעכשיו."
 
 #: wp-admin/comment.php:149
 msgid "Caution:"
-msgstr ""
+msgstr "אזהרה:"
 
 #: wp-admin/comment.php:153 wp-admin/edit-form-advanced.php:153
 #: wp-admin/edit-form-comment.php:86
@@ -384,7 +391,7 @@ msgstr ""
 #: wp-includes/js/tinymce/langs/wp-langs.php:256
 #: wp-includes/post-template.php:1209 wp-includes/theme-compat/sidebar.php:21
 msgid "Author"
-msgstr ""
+msgstr "כותב"
 
 #: wp-admin/comment.php:158 wp-admin/includes/default-list-tables.php:1870
 #: wp-admin/includes/default-list-tables.php:3041
@@ -392,44 +399,44 @@ msgstr ""
 #: wp-admin/user-new.php:218 wp-includes/theme-compat/comments-popup.php:80
 #: wp-login.php:473
 msgid "E-mail"
-msgstr ""
+msgstr "דוא״ל"
 
 #: wp-admin/comment.php:164 wp-admin/includes/default-list-tables.php:2567
 #: wp-admin/includes/media.php:2156 wp-admin/includes/nav-menu.php:126
 #: wp-admin/includes/nav-menu.php:536 wp-admin/includes/template.php:323
 #: wp-admin/includes/template.php:686 wp-admin/press-this.php:159
 msgid "URL"
-msgstr ""
+msgstr "כתובת"
 
 #. translators: field name in comment form
 #: wp-admin/comment.php:169 wp-includes/comment-template.php:677
 #: wp-includes/comment-template.php:1532
 msgctxt "noun"
 msgid "Comment"
-msgstr ""
+msgstr "הערה"
 
 #: wp-admin/comment.php:174 wp-includes/functions.php:2613
 #: wp-includes/functions.php:2615
 msgid "Are you sure you want to do this?"
-msgstr ""
+msgstr "האם באמת ברצונך לעשות זאת?"
 
 #: wp-admin/comment.php:180 wp-admin/custom-header.php:525
 #: wp-admin/includes/default-list-tables.php:2601
 msgid "No"
-msgstr ""
+msgstr "לא"
 
 #: wp-admin/comment.php:215 wp-admin/edit-comments.php:137
 msgid "You are not allowed to edit comments on this post."
-msgstr ""
+msgstr "אין לך הרשה לערוך הערות ברשומה זו."
 
 #: wp-admin/comment.php:280 wp-admin/includes/media.php:1695
 msgid "Unknown action."
-msgstr ""
+msgstr "פעולה בלתי ידועה."
 
 #: wp-admin/custom-background.php:67
 #: wp-includes/js/tinymce/langs/wp-langs.php:324
 msgid "Background"
-msgstr ""
+msgstr "רקע"
 
 #: wp-admin/custom-background.php:83
 msgid "You can customize the look of your site without touching any of your theme&#8217;s code by using a custom background. Your background can be an image or a color."
