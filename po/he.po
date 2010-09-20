@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WordPress 3.1-alpha\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
-"POT-Creation-Date: 2010-09-18 20:04+0000\n"
+"POT-Creation-Date: 2010-09-19 12:04+0000\n"
 "PO-Revision-Date: 2010-09-20 12:20+0300\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Gezer (Hebrew)\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: he\n"
-"X-Generator: Virtaal 0.6.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
 
 #: wp-admin/admin-ajax.php:36
 #, php-format
@@ -408,8 +408,8 @@ msgctxt "noun"
 msgid "Comment"
 msgstr "הערה"
 
-#: wp-admin/comment.php:174 wp-includes/functions.php:2613
-#: wp-includes/functions.php:2615
+#: wp-admin/comment.php:174 wp-includes/functions.php:2614
+#: wp-includes/functions.php:2616
 msgid "Are you sure you want to do this?"
 msgstr "האם באמת ברצונך לעשות זאת?"
 
@@ -653,16 +653,16 @@ msgstr ""
 
 #: wp-admin/custom-header.php:426 wp-admin/includes/theme-install.php:135
 msgid "Custom Header"
-msgstr ""
+msgstr "כותרת מותאמת אישית"
 
 #: wp-admin/custom-header.php:430
 #, php-format
 msgid "Header updated. <a href=\"%s\">Visit your site</a> to see how it looks."
-msgstr ""
+msgstr "הכותרת עודכנה. מומלץ <a href=\"%s\">לבקר באתרך</a> כדי לראות כיצד היא נראית."
 
 #: wp-admin/custom-header.php:434
 msgid "Header Image"
-msgstr ""
+msgstr "תמונת הכותרת"
 
 #: wp-admin/custom-header.php:463
 msgid "You can upload a custom header image to be shown at the top of your site instead of the default one. On the next screen you will be able to crop the image."
@@ -675,7 +675,7 @@ msgstr ""
 
 #: wp-admin/custom-header.php:484
 msgid "Default Images"
-msgstr ""
+msgstr "תמונות בררת המחדל"
 
 #: wp-admin/custom-header.php:486
 msgid "If you don&lsquo;t want to upload your own image, you can use one of these cool headers."
@@ -687,7 +687,7 @@ msgstr ""
 
 #: wp-admin/custom-header.php:499
 msgid "Remove Header Image"
-msgstr ""
+msgstr "הסרת תמונת הכותרת"
 
 #: wp-admin/custom-header.php:506
 msgid "Reset Image"
@@ -9387,7 +9387,7 @@ msgstr ""
 msgid "Search Users"
 msgstr ""
 
-#: wp-admin/widgets.php:33 wp-includes/functions.php:3077
+#: wp-admin/widgets.php:33 wp-includes/functions.php:3078
 msgid "Widgets"
 msgstr ""
 
@@ -10518,243 +10518,243 @@ msgstr ""
 msgid "%s is a protected WP option and may not be modified"
 msgstr ""
 
-#: wp-includes/functions.php:1716
+#: wp-includes/functions.php:1717
 #, php-format
 msgid "ERROR: %s is not a valid feed template."
 msgstr ""
 
-#: wp-includes/functions.php:2178 wp-includes/functions.php:2296
+#: wp-includes/functions.php:2179 wp-includes/functions.php:2297
 #, php-format
 msgid "Unable to create directory %s. Is its parent directory writable by the server?"
 msgstr ""
 
-#: wp-includes/functions.php:2275
+#: wp-includes/functions.php:2276
 msgid "Empty filename"
 msgstr ""
 
-#: wp-includes/functions.php:2279
+#: wp-includes/functions.php:2280
 msgid "Invalid file type"
 msgstr ""
 
-#: wp-includes/functions.php:2302
+#: wp-includes/functions.php:2303
 #, php-format
 msgid "Could not write file %s"
 msgstr ""
 
-#: wp-includes/functions.php:2550
+#: wp-includes/functions.php:2551
 #, php-format
 msgid "Your attempt to edit this attachment: &#8220;%s&#8221; has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2552
-msgid "Your attempt to add this category has failed."
-msgstr ""
-
 #: wp-includes/functions.php:2553
-#, php-format
-msgid "Your attempt to delete this category: &#8220;%s&#8221; has failed."
+msgid "Your attempt to add this category has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2554
 #, php-format
-msgid "Your attempt to edit this category: &#8220;%s&#8221; has failed."
+msgid "Your attempt to delete this category: &#8220;%s&#8221; has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2556
+#: wp-includes/functions.php:2555
 #, php-format
-msgid "Your attempt to delete this comment: &#8220;%s&#8221; has failed."
+msgid "Your attempt to edit this category: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2557
 #, php-format
-msgid "Your attempt to unapprove this comment: &#8220;%s&#8221; has failed."
+msgid "Your attempt to delete this comment: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2558
 #, php-format
-msgid "Your attempt to approve this comment: &#8220;%s&#8221; has failed."
+msgid "Your attempt to unapprove this comment: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2559
 #, php-format
-msgid "Your attempt to edit this comment: &#8220;%s&#8221; has failed."
+msgid "Your attempt to approve this comment: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2560
-msgid "Your attempt to bulk modify comments has failed."
+#, php-format
+msgid "Your attempt to edit this comment: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2561
+msgid "Your attempt to bulk modify comments has failed."
+msgstr ""
+
+#: wp-includes/functions.php:2562
 msgid "Your attempt to moderate comments has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2563
-msgid "Your attempt to add this link has failed."
-msgstr ""
-
 #: wp-includes/functions.php:2564
-#, php-format
-msgid "Your attempt to delete this link: &#8220;%s&#8221; has failed."
+msgid "Your attempt to add this link has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2565
 #, php-format
-msgid "Your attempt to edit this link: &#8220;%s&#8221; has failed."
+msgid "Your attempt to delete this link: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2566
+#, php-format
+msgid "Your attempt to edit this link: &#8220;%s&#8221; has failed."
+msgstr ""
+
+#: wp-includes/functions.php:2567
 msgid "Your attempt to bulk modify links has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2568
-msgid "Your attempt to add this page has failed."
-msgstr ""
-
 #: wp-includes/functions.php:2569
-#, php-format
-msgid "Your attempt to delete this page: &#8220;%s&#8221; has failed."
+msgid "Your attempt to add this page has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2570
 #, php-format
-msgid "Your attempt to edit this page: &#8220;%s&#8221; has failed."
+msgid "Your attempt to delete this page: &#8220;%s&#8221; has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2572
+#: wp-includes/functions.php:2571
 #, php-format
-msgid "Your attempt to edit this plugin file: &#8220;%s&#8221; has failed."
+msgid "Your attempt to edit this page: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2573
 #, php-format
-msgid "Your attempt to activate this plugin: &#8220;%s&#8221; has failed."
+msgid "Your attempt to edit this plugin file: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2574
 #, php-format
-msgid "Your attempt to deactivate this plugin: &#8220;%s&#8221; has failed."
+msgid "Your attempt to activate this plugin: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2575
 #, php-format
+msgid "Your attempt to deactivate this plugin: &#8220;%s&#8221; has failed."
+msgstr ""
+
+#: wp-includes/functions.php:2576
+#, php-format
 msgid "Your attempt to upgrade this plugin: &#8220;%s&#8221; has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2577
-msgid "Your attempt to add this post has failed."
-msgstr ""
-
 #: wp-includes/functions.php:2578
-#, php-format
-msgid "Your attempt to delete this post: &#8220;%s&#8221; has failed."
+msgid "Your attempt to add this post has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2579
 #, php-format
+msgid "Your attempt to delete this post: &#8220;%s&#8221; has failed."
+msgstr ""
+
+#: wp-includes/functions.php:2580
+#, php-format
 msgid "Your attempt to edit this post: &#8220;%s&#8221; has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2581
+#: wp-includes/functions.php:2582
 msgid "Your attempt to add this user has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2582
+#: wp-includes/functions.php:2583
 msgid "Your attempt to delete users has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2583
-msgid "Your attempt to bulk modify users has failed."
-msgstr ""
-
 #: wp-includes/functions.php:2584
-#, php-format
-msgid "Your attempt to edit this user: &#8220;%s&#8221; has failed."
+msgid "Your attempt to bulk modify users has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2585
 #, php-format
+msgid "Your attempt to edit this user: &#8220;%s&#8221; has failed."
+msgstr ""
+
+#: wp-includes/functions.php:2586
+#, php-format
 msgid "Your attempt to modify the profile for: &#8220;%s&#8221; has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2587
-msgid "Your attempt to edit your settings has failed."
-msgstr ""
-
 #: wp-includes/functions.php:2588
-#, php-format
-msgid "Your attempt to change your permalink structure to: %s has failed."
+msgid "Your attempt to edit your settings has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2589
 #, php-format
-msgid "Your attempt to edit this file: &#8220;%s&#8221; has failed."
+msgid "Your attempt to change your permalink structure to: %s has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2590
 #, php-format
-msgid "Your attempt to edit this theme file: &#8220;%s&#8221; has failed."
+msgid "Your attempt to edit this file: &#8220;%s&#8221; has failed."
 msgstr ""
 
 #: wp-includes/functions.php:2591
 #, php-format
+msgid "Your attempt to edit this theme file: &#8220;%s&#8221; has failed."
+msgstr ""
+
+#: wp-includes/functions.php:2592
+#, php-format
 msgid "Your attempt to switch to this theme: &#8220;%s&#8221; has failed."
 msgstr ""
 
-#: wp-includes/functions.php:2593
+#: wp-includes/functions.php:2594
 #, php-format
 msgid "You are attempting to log out of %s"
 msgstr ""
 
-#: wp-includes/functions.php:2632
+#: wp-includes/functions.php:2633
 msgid "WordPress Failure Notice"
 msgstr ""
 
-#: wp-includes/functions.php:2635
+#: wp-includes/functions.php:2636
 #, php-format
 msgid "Do you really want to <a href='%s'>log out</a>?"
 msgstr ""
 
-#: wp-includes/functions.php:2637
+#: wp-includes/functions.php:2638
 msgid "Please try again."
 msgstr ""
 
-#: wp-includes/functions.php:2713
+#: wp-includes/functions.php:2714
 msgid "&laquo; Back"
 msgstr ""
 
-#: wp-includes/functions.php:2734
+#: wp-includes/functions.php:2735
 msgid "WordPress &rsaquo; Error"
 msgstr ""
 
-#: wp-includes/functions.php:3257 wp-includes/functions.php:3297
+#: wp-includes/functions.php:3258 wp-includes/functions.php:3298
 #, php-format
 msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
 msgstr ""
 
-#: wp-includes/functions.php:3259 wp-includes/functions.php:3299
+#: wp-includes/functions.php:3260 wp-includes/functions.php:3300
 #, php-format
 msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr ""
 
-#: wp-includes/functions.php:3341
+#: wp-includes/functions.php:3342
 #, php-format
 msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s! %3$s"
 msgstr ""
 
-#: wp-includes/functions.php:3343
+#: wp-includes/functions.php:3344
 #, php-format
 msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr ""
 
-#: wp-includes/functions.php:4023
+#: wp-includes/functions.php:4024
 msgid "Select a city"
 msgstr ""
 
-#: wp-includes/functions.php:4068 wp-includes/functions.php:4072
+#: wp-includes/functions.php:4069 wp-includes/functions.php:4073
 msgid "UTC"
 msgstr ""
 
-#: wp-includes/functions.php:4076
+#: wp-includes/functions.php:4077
 msgid "Manual Offsets"
 msgstr ""
 
@@ -14163,7 +14163,7 @@ msgid "The specified target URL does not exist."
 msgstr ""
 
 #. Not gettexted string WP_I18N_NO_TABLES
-#: wp-includes/functions.php:1855
+#: wp-includes/functions.php:1856
 msgid "One or more database tables are unavailable.  The database may need to be <a href=\"%s\">repaired</a>."
 msgstr ""
 
