@@ -12,19 +12,17 @@ msgstr ""
 "PO-Revision-Date: 2010-09-20 12:20+0300\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Gezer (Hebrew)\n"
-"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: he\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Virtaal 0.6.1\n"
 
 #: wp-admin/admin-ajax.php:36
 #, php-format
 msgid "<strong>ALERT: You are logged out!</strong> Could not save draft. <a href=\"%s\" target=\"_blank\">Please log in again.</a>"
-msgstr ""
-"<strong>התראה: יצאת מהמערכת!</strong> לא ניתן לשמור את הטיוטה. <a href=\"%s\" "
-"target=\"_blank\">נא להיכנס בחזרה.</a>"
+msgstr "<strong>התראה: יצאת מהמערכת!</strong> לא ניתן לשמור את הטיוטה. <a href=\"%s\" target=\"_blank\">נא להיכנס בחזרה.</a>"
 
 #: wp-admin/admin-ajax.php:214 wp-admin/edit-link-categories.php:108
 #: wp-admin/includes/media.php:1924 wp-admin/includes/nav-menu.php:613
@@ -270,9 +268,7 @@ msgstr "עריכת הערה"
 
 #: wp-admin/comment.php:48
 msgid "You can edit the information left in a comment if needed. This is often useful when you notice that a commenter has made a typographical error."
-msgstr ""
-"ניתן לערוך את המידע שנותר בהערה אם יש לך צורך בכך. אפשרות זו מועילה בעיקר אם "
-"הבחנת שהמעיר שגה שגיאה טיפוגרפית."
+msgstr "ניתן לערוך את המידע שנותר בהערה אם יש לך צורך בכך. אפשרות זו מועילה בעיקר אם הבחנת שהמעיר שגה שגיאה טיפוגרפית."
 
 #: wp-admin/comment.php:49
 msgid "You can also moderate the comment from this screen using the Status box, where you can also change the timestamp of the comment."
@@ -300,14 +296,11 @@ msgstr "למידע נוסף:"
 
 #: wp-admin/comment.php:51 wp-admin/edit-comments.php:113
 msgid "<a href=\"http://codex.wordpress.org/Administration_Panels#Comments\" target=\"_blank\">Comments Documentation</a>"
-msgstr ""
-"<a href=\"http://codex.wordpress.org/Administration_Panels#Comments\" "
-"target=\"_blank\">תיעוד על הערות</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Administration_Panels#Comments\" target=\"_blank\">תיעוד על הערות</a>"
 
 #: wp-admin/comment.php:52
 msgid "<a href=\"http://wordpress.org/support/\" target=\"_blank\" >Support Forums</a>"
-msgstr ""
-"<a href=\"http://wordpress.org/support/\" target=\"_blank\" >פורומי התמיכה</a>"
+msgstr "<a href=\"http://wordpress.org/support/\" target=\"_blank\" >פורומי התמיכה</a>"
 
 #: wp-admin/comment.php:61 wp-admin/comment.php:213
 #: wp-admin/edit-comments.php:134
@@ -448,7 +441,7 @@ msgstr ""
 
 #: wp-admin/custom-background.php:85
 msgid "You can also choose a background color. If you know the hexadecimal code for the color you want, enter it in the Color field. If not, click on the Select a Color link, and a color picker will allow you to choose the exact shade you want."
-msgstr ""
+msgstr "ניתן גם לשנות את צבע הרקע. אם ידוע לך הקוד ההקסדצימלי של הצבע הרצוי, ניתן להזין אותו בשדה הצבע. במידה שלא, ניתן ללחוץ הקישור בחירת צבע וכלי בחירת צבע יאפשר לך לבחור בדיוק את הגוון הרצוי."
 
 #: wp-admin/custom-background.php:86
 msgid "Don&#8217;t forget to click on the Save Changes button when you are finished."
@@ -456,7 +449,7 @@ msgstr ""
 
 #: wp-admin/custom-background.php:88
 msgid "<a href=\"http://codex.wordpress.org/Appearance_Background_SubPanel\" target=\"_blank\">Documentation on Custom Background</a>"
-msgstr ""
+msgstr "<a href=\"http://codex.wordpress.org/Appearance_Background_SubPanel\" target=\"_blank\">תיעוד על רקע מותאם אישית</a>"
 
 #: wp-admin/custom-background.php:89 wp-admin/custom-header.php:97
 #: wp-admin/edit-comments.php:116 wp-admin/edit-form-advanced.php:178
@@ -476,11 +469,11 @@ msgstr ""
 #: wp-admin/upload.php:147 wp-admin/user-edit.php:45 wp-admin/user-new.php:126
 #: wp-admin/users.php:29 wp-admin/widgets.php:46
 msgid "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</a>"
-msgstr ""
+msgstr "<a href=\"http://wordpress.org/support/\" target=\"_blank\">פורומים לתמיכה</a>"
 
 #: wp-admin/custom-background.php:169
 msgid "Custom Background"
-msgstr ""
+msgstr "רקע מותאם אישית"
 
 #: wp-admin/custom-background.php:172
 #, php-format
@@ -489,7 +482,7 @@ msgstr ""
 
 #: wp-admin/custom-background.php:180
 msgid "Background Image"
-msgstr ""
+msgstr "תמונת רקע"
 
 #: wp-admin/custom-background.php:184 wp-admin/custom-header.php:440
 #: wp-admin/includes/class-wp-upgrader.php:1354
