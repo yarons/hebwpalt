@@ -433,11 +433,11 @@ msgstr "רקע"
 
 #: wp-admin/custom-background.php:83
 msgid "You can customize the look of your site without touching any of your theme&#8217;s code by using a custom background. Your background can be an image or a color."
-msgstr ""
+msgstr "ניתן להתאים את מראה האתר שלך מבלי לגעת בקוד ערכת הנושא כל ידי שימוש ברקע מותאם אישית. הרקע שלך יכול להיות תמונה או צבע."
 
 #: wp-admin/custom-background.php:84
 msgid "To use a background image, simply upload it, then choose your display options below. You can display a single instance of your image, or tile it to fill the screen. You can have your background fixed in place, so your site content moves on top of it, or you can have it scroll with your site."
-msgstr ""
+msgstr "כדי להשתמש בתמונת רקע, פשוט יש להעלות אותה, ואז לבחור את אפשרויות התצוגה להלן. ניתן להציג מופע בודד של התמונה שלך או לפרוס אותה כדי שתמלא את המסך. ניתן לקבע את התמונה במקומה כדי שתוכן האתר שלך יחלוף על פניה או שאפשר שתגלול יחד עם האתר שלך."
 
 #: wp-admin/custom-background.php:85
 msgid "You can also choose a background color. If you know the hexadecimal code for the color you want, enter it in the Color field. If not, click on the Select a Color link, and a color picker will allow you to choose the exact shade you want."
@@ -445,7 +445,7 @@ msgstr "ניתן גם לשנות את צבע הרקע. אם ידוע לך הקו
 
 #: wp-admin/custom-background.php:86
 msgid "Don&#8217;t forget to click on the Save Changes button when you are finished."
-msgstr ""
+msgstr "אין לשכוח ללחוץ על לחצן שמירת השינויים בעת הסיום."
 
 #: wp-admin/custom-background.php:88
 msgid "<a href=\"http://codex.wordpress.org/Appearance_Background_SubPanel\" target=\"_blank\">Documentation on Custom Background</a>"
@@ -478,7 +478,7 @@ msgstr "רקע מותאם אישית"
 #: wp-admin/custom-background.php:172
 #, php-format
 msgid "Background updated. <a href=\"%s\">Visit your site</a> to see how it looks."
-msgstr ""
+msgstr "הרקע עודכן. מומלץ <a href=\"%s\">לבקר באתרך</a> כדי לראות כיצד הוא נראה."
 
 #: wp-admin/custom-background.php:180
 msgid "Background Image"
@@ -514,7 +514,7 @@ msgstr "שחזור התמונה המקורית"
 
 #: wp-admin/custom-background.php:227
 msgid "This will restore the original background image. You will not be able to restore any customizations."
-msgstr ""
+msgstr "פעולה זו תשחזר את תמונת הרקע המקורית. לא תהיה באפשרותך לשחזר התאמות אישיות כלשהן."
 
 #: wp-admin/custom-background.php:234 wp-admin/custom-header.php:461
 msgid "Upload Image"
@@ -637,19 +637,19 @@ msgstr "כותרת"
 
 #: wp-admin/custom-header.php:92
 msgid "You can set a custom image header for your site. Simply upload the image and crop it, and the new header will go live immediately."
-msgstr ""
+msgstr "ניתן להגדיר תמונת כותרת מותאמת אישית לאתרך. כל שעליך לעשות הוא להעלות תמונה ולחתוך אותה, הכותרת החדשה תהיה זמינה לגולשים כבר באותו הרגע."
 
 #: wp-admin/custom-header.php:93
 msgid "If you want to discard your custom header and go back to the default included in your theme, click on the buttons to remove the custom image and restore the original header image."
-msgstr ""
+msgstr "אם ברצונך להתעלם מהכותרת שהתאמת אישית ולחזור לבררת המחדל שנכללה בערכת הנושא שלך, יש ללחוץ על הלחצן כדי להסיר את התמונה המותאמת אישית ולשחזר את תמונת הכותרת המקורית."
 
 #: wp-admin/custom-header.php:94
 msgid "Some themes come with additional header images bundled. If you see multiple images displayed, select the one you&#8217;d like and click the Save Changes button."
-msgstr ""
+msgstr "לחלק מערכות הנושא מצורפות תמונות כותרת. אם מופיעות מספר תמונות, יש לבחור את התמונה הרצויה וללחוץ על הלחצן שמירת השינויים."
 
 #: wp-admin/custom-header.php:96
 msgid "<a href=\"http://codex.wordpress.org/Appearance_Header_SubPanel\" target=\"_blank\">Documentation on Custom Header</a>"
-msgstr ""
+msgstr "<a href=\"http://codex.wordpress.org/Appearance_Header_SubPanel\" target=\"_blank\">תיעוד על כותרת מותאמת אישית</a>"
 
 #: wp-admin/custom-header.php:426 wp-admin/includes/theme-install.php:135
 msgid "Custom Header"
@@ -666,12 +666,12 @@ msgstr "תמונת הכותרת"
 
 #: wp-admin/custom-header.php:463
 msgid "You can upload a custom header image to be shown at the top of your site instead of the default one. On the next screen you will be able to crop the image."
-msgstr ""
+msgstr "ניתן להעלות תמונת כותרת מותאמת אישית שתופיע בראש האתר שלך במקום תמונת בררת המחדל. במסך הבא יהיה באפשרותך לחתוך את התמונה."
 
 #: wp-admin/custom-header.php:464
 #, php-format
 msgid "Images of exactly <strong>%1$d &times; %2$d pixels</strong> will be used as-is."
-msgstr ""
+msgstr "תמונות שגודלן בדיוק <strong>%1$d &times; %2$d פיסקלים</strong> ייכנסו לשימוש כמו שהן."
 
 #: wp-admin/custom-header.php:484
 msgid "Default Images"
@@ -679,11 +679,11 @@ msgstr "תמונות בררת המחדל"
 
 #: wp-admin/custom-header.php:486
 msgid "If you don&lsquo;t want to upload your own image, you can use one of these cool headers."
-msgstr ""
+msgstr "אם אין ברצונך להעלות תמונה משלך, ניתן להשתמש באחת מהכותרות המגניבות הבאות."
 
 #: wp-admin/custom-header.php:498
 msgid "This will remove the header image. You will not be able to restore any customizations."
-msgstr ""
+msgstr "פעולה זו תסיר את תמונת הכותרת. לא תהיה באפשרותך לשחזר התאמות אישיות כלשהן."
 
 #: wp-admin/custom-header.php:499
 msgid "Remove Header Image"
@@ -691,23 +691,23 @@ msgstr "הסרת תמונת הכותרת"
 
 #: wp-admin/custom-header.php:506
 msgid "Reset Image"
-msgstr ""
+msgstr "איפוס התמונה"
 
 #: wp-admin/custom-header.php:508
 msgid "This will restore the original header image. You will not be able to restore any customizations."
-msgstr ""
+msgstr "פעולה זו תאפס את תמונת הכותרת המקורית. לא תהיה באפשרותך לשחזר התאמות אישיות כלשהן."
 
 #: wp-admin/custom-header.php:509
 msgid "Restore Original Header Image"
-msgstr ""
+msgstr "שחזור תמונת הכותרת המקורית"
 
 #: wp-admin/custom-header.php:517
 msgid "Header Text"
-msgstr ""
+msgstr "טקסט הכותרת"
 
 #: wp-admin/custom-header.php:521
 msgid "Display Text"
-msgstr ""
+msgstr "הצגת הטקסט"
 
 #: wp-admin/custom-header.php:526
 #: wp-admin/includes/default-list-tables.php:2601
