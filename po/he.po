@@ -807,11 +807,11 @@ msgstr ""
 
 #: wp-admin/edit-comments.php:114
 msgid "<a href=\"http://codex.wordpress.org/Comment_Spam\" target=\"_blank\">Comment Spam Documentation</a>"
-msgstr ""
+msgstr "<a href=\"http://codex.wordpress.org/Comment_Spam\" target=\"_blank\">תיעוד על הערות זבל</a>"
 
 #: wp-admin/edit-comments.php:115
 msgid "<a href=\"http://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blank\">Keyboard Shortcuts Documentation</a>"
-msgstr ""
+msgstr "<a href=\"http://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blank\">תיעוד על קיצורי מקלדת</a>"
 
 #: wp-admin/edit-comments.php:125 wp-admin/edit-link-categories.php:74
 #: wp-admin/edit-tags.php:214 wp-admin/edit.php:164
@@ -819,7 +819,7 @@ msgstr ""
 #: wp-includes/script-loader.php:346
 #, php-format
 msgid "Search results for &#8220;%s&#8221;"
-msgstr ""
+msgstr "תוצאות החיפוש אחר &#8220;%s&#8221;"
 
 #: wp-admin/edit-comments.php:155
 #, php-format
@@ -842,7 +842,7 @@ msgstr[1] ""
 #: wp-admin/upload.php:192 wp-includes/js/tinymce/langs/wp-langs.php:213
 #: wp-includes/js/tinymce/wp-mce-help.php:209
 msgid "Undo"
-msgstr ""
+msgstr "ביטול"
 
 #: wp-admin/edit-comments.php:163
 #, php-format
@@ -881,11 +881,11 @@ msgstr ""
 #: wp-admin/includes/default-list-tables.php:2384
 #: wp-includes/link-template.php:905
 msgid "Edit comment"
-msgstr ""
+msgstr "עריכת הערה"
 
 #: wp-admin/edit-comments.php:182
 msgid "This comment is already in the Trash."
-msgstr ""
+msgstr "הערה זו כבר נמצאת באשפה."
 
 #: wp-admin/edit-comments.php:182
 msgid "View Trash"
