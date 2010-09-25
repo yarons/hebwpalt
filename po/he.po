@@ -3101,8 +3101,7 @@ msgctxt "verb"
 msgid "Trash"
 msgstr ""
 
-#. translators: 1: comment author, 2: post link, 3: notification if the
-#. comment is pending
+#. translators: 1: comment author, 2: post link, 3: notification if the comment is pending
 #: wp-admin/includes/dashboard.php:642
 #, php-format
 msgid "From %1$s on %2$s%3$s"
@@ -3379,8 +3378,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#. translators: Between password field and private checkbox on post quick edit
-#. interface
+#. translators: Between password field and private checkbox on post quick edit interface
 #: wp-admin/includes/default-list-tables.php:761
 msgid "&ndash;OR&ndash;"
 msgstr ""
@@ -4202,8 +4200,7 @@ msgstr ""
 msgid "%1$s %2$s by %3$s"
 msgstr ""
 
-#. translators: 1: theme title, 2:  template dir, 3: stylesheet_dir, 4: theme
-#. title, 5: parent_theme
+#. translators: 1: theme title, 2:  template dir, 3: stylesheet_dir, 4: theme title, 5: parent_theme
 #: wp-admin/includes/default-list-tables.php:3943 wp-admin/themes.php:85
 #, php-format
 msgid ""
@@ -6263,8 +6260,7 @@ msgstr ""
 msgid "Add Custom Field"
 msgstr ""
 
-#. translators: 1: month input, 2: day input, 3: year input, 4: hour input, 5:
-#. minute input
+#. translators: 1: month input, 2: day input, 3: year input, 4: hour input, 5: minute input
 #: wp-admin/includes/template.php:586
 #, php-format
 msgid "%1$s%2$s, %3$s @ %4$s : %5$s"
@@ -8037,8 +8033,7 @@ msgstr ""
 msgid "General Settings"
 msgstr ""
 
-#. translators: date and time format for exact current time, mainly about
-#. timezones, see http://php.net/date
+#. translators: date and time format for exact current time, mainly about timezones, see http://php.net/date
 #: wp-admin/options-general.php:18
 msgctxt "timezone date format"
 msgid "Y-m-d G:i:s"
@@ -11846,8 +11841,7 @@ msgstr ""
 msgid ", and "
 msgstr ""
 
-#. translators: used between only two list items, there is a space after the
-#. and
+#. translators: used between only two list items, there is a space after the and
 #: wp-includes/formatting.php:2634
 msgid " and "
 msgstr ""
@@ -13964,14 +13958,12 @@ msgstr ""
 msgid "PM"
 msgstr ""
 
-#. translators: $thousands_sep argument for http://php.net/number_format,
-#. default is ,
+#. translators: $thousands_sep argument for http://php.net/number_format, default is ,
 #: wp-includes/locale.php:182
 msgid "number_format_thousands_sep"
 msgstr ""
 
-#. translators: $dec_point argument for http://php.net/number_format, default
-#. is .
+#. translators: $dec_point argument for http://php.net/number_format, default is .
 #: wp-includes/locale.php:186
 msgid "number_format_decimal_point"
 msgstr ""
