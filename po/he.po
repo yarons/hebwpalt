@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: WordPress 3.1-alpha\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2010-09-19 12:04+0000\n"
-"PO-Revision-Date: 2010-09-25 10:02+0200\n"
+"PO-Revision-Date: 2010-09-25 10:14+0200\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Gezer (Hebrew)\n"
 "MIME-Version: 1.0\n"
@@ -1134,7 +1134,7 @@ msgstr ""
 
 #: wp-admin/edit-form-advanced.php:61
 msgid "Page saved."
-msgstr ""
+msgstr "העמוד נשמר."
 
 #: wp-admin/edit-form-advanced.php:62
 #, php-format
