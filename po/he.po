@@ -791,7 +791,7 @@ msgstr ""
 
 #: wp-admin/edit-comments.php:109
 msgid "In the Author column, in addition to the author&#8217;s name, email address, and blog URL, the commenter&#8217;s IP address is shown. Clicking on this link will show you all the comments made from this IP address."
-msgstr ""
+msgstr "בעמודה מאת, בנוסף על שם הכותב, כתובת הדוא״ל וכתובת הבלוג מופיעה גם כתובת ה־IP שלו. לחיצה על קישור זה תציג לך את התגובות שהתקבלו מ־IP זה."
 
 #: wp-admin/edit-comments.php:110
 msgid "In the Comment column, above each comment it says &#8220;Submitted on,&#8221; followed by the date and time the comment was left on your site. Clicking on the date/time link will take you to that comment on your live site."
@@ -960,31 +960,31 @@ msgstr "הרשומה תוזמנה לתאריך: <strong>%1$s</strong>. <a target
 #: wp-admin/edit-form-advanced.php:50 wp-admin/edit-form-advanced.php:63
 #: wp-admin/edit-form-comment.php:58 wp-admin/includes/meta-boxes.php:159
 msgid "M j, Y @ G:i"
-msgstr ""
+msgstr "ה־j בM, Y @ G:i"
 
 #: wp-admin/edit-form-advanced.php:51
 #, php-format
 msgid "Post draft updated. <a target=\"_blank\" href=\"%s\">Preview post</a>"
-msgstr ""
+msgstr "טיוטת הרשומה עודכנה. <a target=\"_blank\" href=\"%s\">הצגה מקדימה של הרשומה</a>"
 
 #: wp-admin/edit-form-advanced.php:55
 #, php-format
 msgid "Page updated. <a href=\"%s\">View page</a>"
-msgstr ""
+msgstr "העמוד עודכן. <a href=\"%s\">צפייה בעמוד</a>"
 
 #: wp-admin/edit-form-advanced.php:58
 msgid "Page updated."
-msgstr ""
+msgstr "העמוד עודכן."
 
 #: wp-admin/edit-form-advanced.php:59
 #, php-format
 msgid "Page restored to revision from %s"
-msgstr ""
+msgstr "העמוד עודכן למהדורה מהתאריך %s"
 
 #: wp-admin/edit-form-advanced.php:60
 #, php-format
 msgid "Page published. <a href=\"%s\">View page</a>"
-msgstr ""
+msgstr "העמוד עודכן. <a href=\"%s\">צפייה בעמוד</a>"
 
 #: wp-admin/edit-form-advanced.php:61
 msgid "Page saved."
@@ -993,7 +993,7 @@ msgstr "העמוד נשמר."
 #: wp-admin/edit-form-advanced.php:62
 #, php-format
 msgid "Page submitted. <a target=\"_blank\" href=\"%s\">Preview page</a>"
-msgstr ""
+msgstr "העמוד נשלח. <a target=\"_blank\" href=\"%s\">הצגה מקדימה של עמוד</a>"
 
 #: wp-admin/edit-form-advanced.php:63
 #, php-format
@@ -1015,11 +1015,11 @@ msgstr ""
 #: wp-admin/press-this.php:469 wp-admin/press-this.php:474
 #: wp-admin/sidebar.php:121 wp-includes/script-loader.php:296
 msgid "Publish"
-msgstr ""
+msgstr "פרסום"
 
 #: wp-admin/edit-form-advanced.php:126
 msgid "Page Attributes"
-msgstr ""
+msgstr "מאפייני העמוד"
 
 #: wp-admin/edit-form-advanced.php:126
 msgid "Attributes"
