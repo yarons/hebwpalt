@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: WordPress 3.1-alpha\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2010-09-24 20:04+0000\n"
-"PO-Revision-Date: 2010-09-25 10:14+0200\n"
+"PO-Revision-Date: 2010-10-04 09:17+0200\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Gezer (Hebrew)\n"
 "MIME-Version: 1.0\n"
@@ -283,10 +283,13 @@ msgstr ""
 "הבחנת שהמעיר שגה שגיאה טיפוגרפית."
 
 #: wp-admin/comment.php:49
+#, fuzzy
 msgid ""
 "You can also moderate the comment from this screen using the Status box, "
 "where you can also change the timestamp of the comment."
 msgstr ""
+"ניתן לפקח על הערה ממסך זה באמצעות תיבת המצב, בה ניתן גם לשנות את חותמת הזמן "
+"של ההערה."
 
 #: wp-admin/comment.php:50 wp-admin/custom-background.php:87
 #: wp-admin/custom-header.php:95 wp-admin/edit-comments.php:113
@@ -344,8 +347,9 @@ msgid ""
 msgstr "הערה זו נמצאת באשפה. נא להעביר אותה אל מחוץ לאשפה אם יש צורך בעריכתה."
 
 #: wp-admin/comment.php:110
+#, fuzzy
 msgid "Moderate Comment"
-msgstr ""
+msgstr "פיקוח על הערה"
 
 #: wp-admin/comment.php:115
 msgid "You are about to mark the following comment as spam:"
@@ -902,8 +906,9 @@ msgstr ""
 "ידי הפעולות הקבוצתיות."
 
 #: wp-admin/edit-comments.php:108
+#, fuzzy
 msgid "A yellow row means the comment is waiting for you to moderate it."
-msgstr ""
+msgstr "שורה צהובה משמעה שההערה ממתינה לפיקוח."
 
 #: wp-admin/edit-comments.php:109
 msgid ""
@@ -921,8 +926,12 @@ msgid ""
 "Clicking on the date/time link will take you to that comment on your live "
 "site."
 msgstr ""
+"בעמודת ההערות, מעל לכל הערה מופיע &#8221;נשלחה בתאריך&#8220; ולאחריו התאריך "
+"והשעה בהם נשלחה ההערה לאתרך. לחיצה על הקישור לתאריך/שעה תקשר אותך להערה הזאת "
+"באתר הפעיל שלך."
 
 #: wp-admin/edit-comments.php:111
+#, fuzzy
 msgid ""
 "In the In Response To column, there are three elements. The text is the name "
 "of the post that inspired the comment, and links to the post editor for that "
@@ -933,12 +942,21 @@ msgid ""
 "the bubble will filter the comments screen to show only comments on that "
 "post."
 msgstr ""
+"בעמודה \"בתגובה ל־\" ישנם שלושה רכיבים. הטקסט הוא שם הרשומה שהעניקה את "
+"ההשראה לכתיבת ההערה וקישורים למפרסם התגובה.סמל הקישור הקבוע&#8220;#&#8221; "
+"שמתחת מוביל לרשומה זו באתרך הפעיל. הבועה הקטנה עם המספק מציגה כמה תגובות "
+"התקבלו לרשומה זו. אם הבועה אפורה כל התגובות לרשומה זו עברו פיקוח. אם היא "
+"כחולה ישנן הערות ממתינות. לחיצה על הבועה תסנן את מסך ההערות כדי שיציג אך ורק "
+"הערות לרשומה זו."
 
 #: wp-admin/edit-comments.php:112
+#, fuzzy
 msgid ""
 "Many people take advantage of keyboard shortcuts to moderate their comments "
 "more quickly. Use the link below to learn more."
 msgstr ""
+"משתמשים רבים נוטים להשתמש בקיצורי מקלדת כדי לפקח על הערותיהם בקלות יתר. יש "
+"להשתמש בקישור שלהלן למידע נוסף."
 
 #: wp-admin/edit-comments.php:115
 msgid ""
@@ -1049,8 +1067,9 @@ msgid "Search Comments"
 msgstr "חיפוש בהערות"
 
 #: wp-admin/edit-comments.php:232
+#, fuzzy
 msgid "No comments awaiting moderation&hellip; yet."
-msgstr ""
+msgstr "אין תגובות הממתינות לפיקוח&hellip; עדיין."
 
 #: wp-admin/edit-comments.php:237
 msgid "No comments found."
@@ -1151,11 +1170,15 @@ msgid ""
 "Page scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
 "\">Preview page</a>"
 msgstr ""
+"פרסום העמוד תוזמן לתאריך: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">תצוגה מקדימה של העמוד</a>"
 
 #: wp-admin/edit-form-advanced.php:64
 #, php-format
 msgid "Page draft updated. <a target=\"_blank\" href=\"%s\">Preview page</a>"
 msgstr ""
+"טיוטת העמוד עודכנה. <a target=\"_blank\" href=\"%s\">תצוגה מקדימה של העמוד</"
+"a>"
 
 #: wp-admin/edit-form-advanced.php:97
 #, php-format
@@ -1163,6 +1186,8 @@ msgid ""
 "There is an autosave of this post that is more recent than the version "
 "below.  <a href=\"%s\">View the autosave</a>"
 msgstr ""
+"ישנה שמירה אוטומטית לרשומה זו שהיא עדכנית יותר מהגרסה שלהלן. <a href=\"%s"
+"\">צפייה בשמירה האוטומטית</a>"
 
 #: wp-admin/edit-form-advanced.php:109 wp-admin/includes/dashboard.php:466
 #: wp-admin/includes/meta-boxes.php:215 wp-admin/includes/meta-boxes.php:216
@@ -1177,29 +1202,29 @@ msgstr "מאפייני העמוד"
 
 #: wp-admin/edit-form-advanced.php:126
 msgid "Attributes"
-msgstr ""
+msgstr "מאפיינים"
 
 #: wp-admin/edit-form-advanced.php:130
 msgid "Featured Image"
-msgstr ""
+msgstr "תמונות מומלצות"
 
 #: wp-admin/edit-form-advanced.php:133 wp-admin/includes/meta-boxes.php:359
 #: wp-includes/post.php:4346
 msgid "Excerpt"
-msgstr ""
+msgstr "מבואה"
 
 #: wp-admin/edit-form-advanced.php:136
 msgid "Send Trackbacks"
-msgstr ""
+msgstr "שליחת טראקבקים"
 
 #: wp-admin/edit-form-advanced.php:139
 msgid "Custom Fields"
-msgstr ""
+msgstr "שדות מותאמים אישית"
 
 #: wp-admin/edit-form-advanced.php:143 wp-admin/includes/dashboard.php:290
 #: wp-admin/menu.php:205
 msgid "Discussion"
-msgstr ""
+msgstr "דיון"
 
 #: wp-admin/edit-form-advanced.php:149
 #: wp-admin/includes/default-list-tables.php:718
@@ -1207,12 +1232,12 @@ msgstr ""
 #: wp-admin/includes/default-list-tables.php:1747
 #: wp-admin/includes/meta-boxes.php:492
 msgid "Slug"
-msgstr ""
+msgstr "כתובת נוחה"
 
 #: wp-admin/edit-form-advanced.php:157 wp-admin/revision.php:97
 #: wp-admin/revision.php:123 wp-includes/post.php:58
 msgid "Revisions"
-msgstr ""
+msgstr "מהדורות"
 
 #: wp-admin/edit-form-advanced.php:168
 msgid ""
@@ -1284,6 +1309,8 @@ msgid ""
 "<a href=\"http://codex.wordpress.org/Writing_Posts\" target=\"_blank"
 "\">Documentation on Writing Posts</a>"
 msgstr ""
+"<a href=\"http://codex.wordpress.org/Writing_Posts\" target=\"_blank\">תיעוד "
+"על כתיבת רשומות</a>"
 
 #: wp-admin/edit-form-advanced.php:181 wp-admin/edit.php:152
 msgid ""
@@ -1334,55 +1361,55 @@ msgstr ""
 
 #: wp-admin/edit-form-advanced.php:238
 msgid "Enter title here"
-msgstr ""
+msgstr "נא להזין כותרת לכאן"
 
 #: wp-admin/edit-form-advanced.php:246
 msgid "Get Shortlink"
-msgstr ""
+msgstr "קבלת קישור מקוצר"
 
 #: wp-admin/edit-form-advanced.php:279
 #, php-format
 msgid "Last edited by %1$s on %2$s at %3$s"
-msgstr ""
+msgstr "עריכה אחרונה על ידי %1$s ב־%2$s בשעה %3$s"
 
 #: wp-admin/edit-form-advanced.php:281
 #, php-format
 msgid "Last edited on %1$s at %2$s"
-msgstr ""
+msgstr "עריכה אחרונה ב־%1$s בשעה %2$s"
 
 #: wp-admin/edit-form-comment.php:17
 #, php-format
 msgid "Editing Comment # %s"
-msgstr ""
+msgstr "עריכת הערה מס׳ %s"
 
 #: wp-admin/edit-form-comment.php:42
 msgid "View Comment"
-msgstr ""
+msgstr "צפייה בהערה"
 
 #. translators: comment type radio button
 #. translators: comment status
 #: wp-admin/edit-form-comment.php:50 wp-includes/comment.php:326
 msgctxt "adjective"
 msgid "Approved"
-msgstr ""
+msgstr "עברה אישור"
 
 #. translators: comment type radio button
 #: wp-admin/edit-form-comment.php:51
 msgctxt "adjective"
 msgid "Pending"
-msgstr ""
+msgstr "ממתינה"
 
 #. translators: comment type radio button
 #. translators: comment status
 #: wp-admin/edit-form-comment.php:52 wp-includes/comment.php:328
 msgctxt "adjective"
 msgid "Spam"
-msgstr ""
+msgstr "זבל"
 
 #: wp-admin/edit-form-comment.php:59
 #, php-format
 msgid "Submitted on: <b>%1$s</b>"
-msgstr ""
+msgstr "נשלחה בתאריך: <b>%1$s</b>"
 
 #: wp-admin/edit-form-comment.php:62 wp-admin/includes/dashboard.php:610
 #: wp-admin/includes/default-list-tables.php:174
@@ -1403,7 +1430,7 @@ msgstr ""
 #: wp-admin/includes/widgets.php:177 wp-includes/script-loader.php:290
 #: wp-includes/script-loader.php:318
 msgid "Edit"
-msgstr ""
+msgstr "עריכה"
 
 #: wp-admin/edit-form-comment.php:71 wp-admin/includes/dashboard.php:614
 #: wp-admin/includes/default-list-tables.php:177
@@ -1415,49 +1442,49 @@ msgstr ""
 #: wp-admin/includes/default-list-tables.php:2419
 #: wp-admin/includes/media.php:1271 wp-admin/includes/meta-boxes.php:198
 msgid "Delete Permanently"
-msgstr ""
+msgstr "מחיקה לצמיתות"
 
 #: wp-admin/edit-form-comment.php:71
 #: wp-admin/includes/default-list-tables.php:179
 #: wp-admin/includes/default-list-tables.php:2210
 #: wp-admin/includes/media.php:1279 wp-admin/includes/meta-boxes.php:200
 msgid "Move to Trash"
-msgstr ""
+msgstr "העברה לאשפה"
 
 #: wp-admin/edit-form-comment.php:74 wp-admin/includes/template.php:370
 msgid "Update Comment"
-msgstr ""
+msgstr "עדכון הערה"
 
 #: wp-admin/edit-form-comment.php:91
 #: wp-includes/js/tinymce/langs/wp-langs.php:271
 msgid "Name:"
-msgstr ""
+msgstr "שם:"
 
 #: wp-admin/edit-form-comment.php:98
 #, php-format
 msgid "E-mail (%s):"
-msgstr ""
+msgstr "דוא״ל (%s):"
 
 #: wp-admin/edit-form-comment.php:98
 msgid "send e-mail"
-msgstr ""
+msgstr "שליחת דוא״ל"
 
 #: wp-admin/edit-form-comment.php:100
 msgid "E-mail:"
-msgstr ""
+msgstr "דוא״ל:"
 
 #: wp-admin/edit-form-comment.php:109
 msgid "visit site"
-msgstr ""
+msgstr "ביקור באתר"
 
 #: wp-admin/edit-form-comment.php:110
 #, php-format
 msgid "URL (%s):"
-msgstr ""
+msgstr "כתובת (%s):"
 
 #: wp-admin/edit-form-comment.php:112
 msgid "URL:"
-msgstr ""
+msgstr "כתובת:"
 
 #: wp-admin/edit-link-categories.php:18 wp-admin/edit-tags.php:32
 #: wp-admin/edit-tags.php:70 wp-admin/edit-tags.php:84
@@ -1476,12 +1503,12 @@ msgstr ""
 #: wp-content/plugins/akismet/admin.php:45
 #: wp-content/plugins/akismet/akismet.php:94
 msgid "Cheatin&#8217; uh?"
-msgstr ""
+msgstr "מרמה אה?"
 
 #: wp-admin/edit-link-categories.php:48 wp-admin/menu.php:89
 #: wp-includes/taxonomy.php:54
 msgid "Link Categories"
-msgstr ""
+msgstr "קישור קטגוריות"
 
 #: wp-admin/edit-link-categories.php:54
 msgid ""
@@ -1489,52 +1516,59 @@ msgid ""
 "must be unique and link categories are separate from the categories you use "
 "for posts."
 msgstr ""
+"ניתן ליצור קבוצות של קישורים על ידי שימוש בקטגוריות קישורים. קישור שמות של "
+"קטגוריות חייב להיות קישור ייחודי וקטגוריות קישורים נפרדות מהקטגוריות בהן "
+"משתמשים לרשומות."
 
 #: wp-admin/edit-link-categories.php:55
 msgid ""
 "You can delete link categories, but that action does not delete the links "
 "within the category. Instead, it moves them to the default link category."
 msgstr ""
+"ניתן למחוק קטגוריות קישורים אך פעולה זו אינה מוחקת את הקישורים בתוך "
+"הקטגוריה. במקום זאת, הקישורים מועברים לקטגוריית הקישורים כבררת מחדל."
 
 #: wp-admin/edit-link-categories.php:57
 msgid ""
 "<a href=\"http://codex.wordpress.org/Links_Link_Categories_SubPanel\" target="
 "\"_blank\">Link Categories Documentation</a>"
 msgstr ""
+"<a href=\"http://codex.wordpress.org/Links_Link_Categories_SubPanel\" target="
+"\"_blank\">תיעוד על קטגוריות קישורים</a>"
 
 #: wp-admin/edit-link-categories.php:63
 msgid "Category added."
-msgstr ""
+msgstr "נוספה קטגוריה."
 
 #: wp-admin/edit-link-categories.php:64
 msgid "Category deleted."
-msgstr ""
+msgstr "קטגוריה נמחקה."
 
 #: wp-admin/edit-link-categories.php:65
 msgid "Category updated."
-msgstr ""
+msgstr "קטגוריה עודכנה."
 
 #: wp-admin/edit-link-categories.php:66
 msgid "Category not added."
-msgstr ""
+msgstr "קטגוריה לא נוספה."
 
 #: wp-admin/edit-link-categories.php:67
 msgid "Category not updated."
-msgstr ""
+msgstr "קטגוריה לא עודכנה."
 
 #: wp-admin/edit-link-categories.php:68
 msgid "Categories deleted."
-msgstr ""
+msgstr "קטגוריות נמחקו."
 
 #: wp-admin/edit-link-categories.php:84 wp-admin/edit-link-categories.php:86
 #: wp-includes/taxonomy.php:366
 msgid "Search Categories"
-msgstr ""
+msgstr "חיפוש בקטגוריות"
 
 #: wp-admin/edit-link-categories.php:120 wp-admin/edit-link-categories.php:174
 #: wp-admin/includes/list-table.php:242
 msgid "Bulk Actions"
-msgstr ""
+msgstr "פעולות קבוצתיות"
 
 #: wp-admin/edit-link-categories.php:121 wp-admin/edit-link-categories.php:175
 #: wp-admin/includes/default-list-tables.php:1500
@@ -1555,13 +1589,13 @@ msgstr ""
 #: wp-admin/includes/template.php:499 wp-admin/includes/widgets.php:201
 #: wp-admin/widgets.php:312
 msgid "Delete"
-msgstr ""
+msgstr "מחיקה"
 
 #: wp-admin/edit-link-categories.php:123 wp-admin/edit-link-categories.php:177
 #: wp-admin/includes/list-table.php:247 wp-admin/includes/template.php:1896
 #: wp-includes/js/tinymce/langs/wp-langs.php:27
 msgid "Apply"
-msgstr ""
+msgstr "החלה"
 
 #: wp-admin/edit-link-categories.php:186
 #, php-format
@@ -3106,7 +3140,8 @@ msgctxt "verb"
 msgid "Trash"
 msgstr ""
 
-#. translators: 1: comment author, 2: post link, 3: notification if the comment is pending
+#. translators: 1: comment author, 2: post link, 3: notification if the
+#. comment is pending
 #: wp-admin/includes/dashboard.php:642
 #, php-format
 msgid "From %1$s on %2$s%3$s"
@@ -3385,7 +3420,8 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#. translators: Between password field and private checkbox on post quick edit interface
+#. translators: Between password field and private checkbox on post quick edit
+#. interface
 #: wp-admin/includes/default-list-tables.php:768
 msgid "&ndash;OR&ndash;"
 msgstr ""
@@ -4207,7 +4243,8 @@ msgstr ""
 msgid "%1$s %2$s by %3$s"
 msgstr ""
 
-#. translators: 1: theme title, 2:  template dir, 3: stylesheet_dir, 4: theme title, 5: parent_theme
+#. translators: 1: theme title, 2:  template dir, 3: stylesheet_dir, 4: theme
+#. title, 5: parent_theme
 #: wp-admin/includes/default-list-tables.php:4006
 #, php-format
 msgid ""
@@ -6267,7 +6304,8 @@ msgstr ""
 msgid "Add Custom Field"
 msgstr ""
 
-#. translators: 1: month input, 2: day input, 3: year input, 4: hour input, 5: minute input
+#. translators: 1: month input, 2: day input, 3: year input, 4: hour input, 5:
+#. minute input
 #: wp-admin/includes/template.php:622
 #, php-format
 msgid "%1$s%2$s, %3$s @ %4$s : %5$s"
@@ -8069,7 +8107,8 @@ msgstr ""
 msgid "General Settings"
 msgstr ""
 
-#. translators: date and time format for exact current time, mainly about timezones, see http://php.net/date
+#. translators: date and time format for exact current time, mainly about
+#. timezones, see http://php.net/date
 #: wp-admin/options-general.php:18
 msgctxt "timezone date format"
 msgid "Y-m-d G:i:s"
@@ -12320,7 +12359,8 @@ msgstr ""
 msgid ", and "
 msgstr ""
 
-#. translators: used between only two list items, there is a space after the and
+#. translators: used between only two list items, there is a space after the
+#. and
 #: wp-includes/formatting.php:2630
 msgid " and "
 msgstr ""
@@ -14437,12 +14477,14 @@ msgstr ""
 msgid "PM"
 msgstr ""
 
-#. translators: $thousands_sep argument for http://php.net/number_format, default is ,
+#. translators: $thousands_sep argument for http://php.net/number_format,
+#. default is ,
 #: wp-includes/locale.php:182
 msgid "number_format_thousands_sep"
 msgstr ""
 
-#. translators: $dec_point argument for http://php.net/number_format, default is .
+#. translators: $dec_point argument for http://php.net/number_format, default
+#. is .
 #: wp-includes/locale.php:186
 msgid "number_format_decimal_point"
 msgstr ""
@@ -14697,7 +14739,7 @@ msgstr "(עוד...)"
 
 #: wp-includes/post-template.php:256
 msgid "There is no excerpt because this is a protected post."
-msgstr "אין ציטוט כיוון שזוהי רשומה מוגנת."
+msgstr "אין מבואה כיוון שזוהי רשומה מוגנת."
 
 #: wp-includes/post-template.php:567
 msgid "Pages:"
@@ -14923,7 +14965,7 @@ msgstr "עמוד ההורה:"
 
 #: wp-includes/post.php:2167
 msgid "Content, title, and excerpt are empty."
-msgstr "התוכן, הכותרת והציטוט ריקים."
+msgstr "התוכן, הכותרת והמבואה ריקים."
 
 #: wp-includes/post.php:2300
 msgid "Could not update post in the database"
